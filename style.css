@@ -40,7 +40,7 @@ body {
 
 .wrapper .content{
     width: 100%;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
 
 .wrapper .content.disable {
